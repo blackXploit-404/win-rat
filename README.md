@@ -1,6 +1,6 @@
-
-![Win-Rat Icon](https://github.com/blackXploit-404/win-rat/raw/master/icon.png)
-
+<div align="center">
+  <img src="https://github.com/blackXploit-404/win-rat/raw/master/icon.png" alt="Win-Rat Icon">
+</div>
 # Win-Rat
 This is a Python-based Telegram bot that allows remote control of a computer via Telegram commands. It provides functionalities like taking screenshots, capturing webcam images, executing system commands, and more. Use this script responsibly and legally, as it includes sensitive features like keylogging and remote system control.
 
