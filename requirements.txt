@@ -1,0 +1,6 @@
+telebot 
+pyautogui 
+psutil 
+requests 
+opencv-python 
+keyboard
