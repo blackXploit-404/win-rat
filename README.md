@@ -65,9 +65,5 @@ Windows-Specific Features: Commands like /lock, /volume, and /message are Window
 
 Contributions are welcome! Please fork the repository, make changes, and submit a pull request. Ensure your code follows the existing style and includes appropriate checks for cross-platform compatibility.
 
-# License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 # Disclaimer
 The author is not responsible for any misuse of this software. Use it at your own risk and ensure compliance with all applicable laws and regulations.
